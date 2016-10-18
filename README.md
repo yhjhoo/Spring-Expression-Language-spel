@@ -1,3 +1,3 @@
-# SpringExpressTest
+# Spring-Expression-Language-spel
 
-Demo of using spring expressing language 
+Demo of using spring Expression language 
